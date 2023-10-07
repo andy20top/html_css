@@ -5,12 +5,12 @@ h1{
     color: rgb(117, 0, 226);
     margin-left: auto;
     margin-right: auto;
-    width: 15em
+    width: 11em
 }
 h2{
     margin-left: auto;
     margin-right: auto;
-    width: 20em
+    width: 15em
 }
 h3{
     margin-left: auto;
@@ -18,7 +18,7 @@ h3{
     width: 20em
 }
 p{
-    color: rgba(24, 3, 93, 0.71);
+    color: rgba(0, 0, 0, 0.71);
     margin-left: auto;
     margin-right: auto;
     width: 35em
@@ -30,4 +30,5 @@ image{
 ul{
     margin-left: auto;
     margin-right: auto;
+    width: 30em;
 }
